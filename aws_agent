@@ -1,0 +1,8 @@
+Installation
+sudo yum install amazon-cloudwatch-agent -y
+
+Configuration
+sudo yum install amazon-cloudwatch-agent -y
+
+Start Agent
+sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a start
