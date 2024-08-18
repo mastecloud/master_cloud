@@ -1,3 +1,7 @@
+Role IAM Polices
+AmazonSSMManagedInstanceCore
+CloudWatchAgentServerPolicy
+
 Installation
 sudo yum install amazon-cloudwatch-agent -y
 
